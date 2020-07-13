@@ -1,9 +1,3 @@
-/*---------------------------------------------------------
-Author: Carmelo Andronaco and Celso De Souza
-Company: IBM 
-description: Redirect OAuth flow to catch Azure Forgot Password Link
-History:
----------------------------------------------------------*/
 public without sharing class RedirectOAuthExt{
 
     public PageReference redirectMe ()
